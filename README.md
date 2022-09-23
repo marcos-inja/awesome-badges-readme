@@ -14,6 +14,7 @@ https://visitor-badge-reloaded.herokuapp.com/badge?page_id=marcos-inja&logo=Gith
 ```
 https://custom-icon-badges.herokuapp.com/github/followers/marcos-inja?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white
 ```
+## Social Networks
 ![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ```
 https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
